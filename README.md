@@ -30,7 +30,7 @@
 
 ## 🔗 Live Preview
 
-👉 [Live Demo]()
+👉 [Live Demo](https://github.com/Saurabhx26/FingerFiasco/blob/main/home.html)
 
 ## 📸 Screenshot
 
