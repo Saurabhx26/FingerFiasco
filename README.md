@@ -1,2 +1,41 @@
-# FingerFiasco-main
-Finger Fiasco is a fast-paced and addictive typing game that challenges your speed and accuracy. Whether you're a keyboard ninja or just getting started, this game is a fun way to sharpen your typing skills.
+
+<div align="center">
+
+# 🎮 Finger Fiasco
+
+</div>
+
+**Finger Fiasco** is a fast-paced and addictive typing game that challenges your speed and accuracy. Whether you're a keyboard ninja or just getting started, this game is a fun way to sharpen your typing skills.
+
+---
+
+## 🚀 Features
+
+- ⌨️ Real-time typing challenges  
+- ⏱️ Countdown timer and scoring system  
+- 🧠 Word randomizer for unpredictable gameplay  
+- 🎯 Accuracy tracking  
+- 📱 Fully responsive for desktop and mobile  
+- 🎨 Stylish, clean, and interactive UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Markup for game structure  
+- **CSS3** – Responsive and engaging styling  
+- **JavaScript** – Game logic and interactivity  
+
+---
+
+## 🔗 Live Preview
+
+👉 [Live Demo]()
+
+## 📸 Screenshot
+
+![Finger Fiasco](https://github.com/abhijeetBhale/Portfolio/blob/058af283a0133c9718137c82755af89a34f5b30b/assets/finger-fiasco.png)
+![Finger Fiasco](https://github.com/abhijeetBhale/Portfolio/blob/1815118fee8f6dcf6d14f5e6ea9173422befb825/assets/finger-fisaco-b.png)
+
+---
+
